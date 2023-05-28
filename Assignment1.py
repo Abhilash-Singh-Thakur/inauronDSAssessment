@@ -1,4 +1,4 @@
-Solution 1. 
+# Solution 1. 
 
 def twoSum(nums, target):
     # Create a dictionary to store the complement of each number and its index
