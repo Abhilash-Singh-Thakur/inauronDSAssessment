@@ -1,8 +1,8 @@
-💡 **Question 1**
+# 💡 **Question 1**
 
-Given a string `s`, *find the first non-repeating character in it and return its index*. If it does not exist, return `-1`.
-Example: Input: s = "leetcode"
-Output: 0
+# Given a string `s`, *find the first non-repeating character in it and return its index*. If it does not exist, return `-1`.
+# Example: Input: s = "leetcode"
+# Output: 0
 
 # Solution
 
